@@ -12,4 +12,4 @@ COMING SOON: Submit requests for commands to add
   * See picture:
 ![Picture of cube with front left bottom corner labeled “1” and top right back corner labeled “2”](./IMG_0399.jpeg)
 * `/weather` - allows you to change the weather between rain, clear, and thunderstorm (for snow do rain in a cold biome)
-* For example, change weather to rain `/weather rain` (change rain to “clear” or “thunderstorm” for different weathers) 
+  * For example, change weather to rain `/weather rain` (change rain to “clear” or “thunderstorm” for different weathers) 
