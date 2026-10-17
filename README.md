@@ -1,4 +1,4 @@
-# Pm0nsterPika’s Minecraft Bedrock Commands
+# Minecraft Bedrock Commands
 ## About This Page
 
 Minecraft Bedrock commands and how to use them!
